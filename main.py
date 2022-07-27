@@ -9,8 +9,8 @@ access_token = config.access_token
 access_token_secret = config.access_token_secret
 bearer_token = config.bearer_token
 
-auth = tweepy.OAuth1UserHandler(consumer_key, consumer_secret, access_token, access_token_secret)
-api = tweepy.API(auth)
+#auth = tweepy.OAuth1UserHandler(consumer_key, consumer_secret, access_token, access_token_secret)
+#api = tweepy.API(auth)
 
 
 
